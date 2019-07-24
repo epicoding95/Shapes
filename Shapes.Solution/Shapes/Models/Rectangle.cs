@@ -28,6 +28,20 @@ namespace Shapes.Models
                 return false;
             }
         }
+         interface IMotor
+            {
+         string OnSwitch();
+            }   
+
+                 public class CoffeeMachine : IMotor
+                {
+                public string OnSwitch()
+                {
+                    return "Bubble bubble hiss.";
+                }
+                }
+
+
 
     }
 }
