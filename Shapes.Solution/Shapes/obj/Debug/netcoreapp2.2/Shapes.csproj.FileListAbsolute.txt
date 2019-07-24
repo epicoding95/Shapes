@@ -1,0 +1,9 @@
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.deps.json
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csprojAssemblyReference.cache
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.csproj.CoreCompileInputs.cache
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfoInputs.cache
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.AssemblyInfo.cs
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.dll
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes/obj/Debug/netcoreapp2.2/Shapes.pdb

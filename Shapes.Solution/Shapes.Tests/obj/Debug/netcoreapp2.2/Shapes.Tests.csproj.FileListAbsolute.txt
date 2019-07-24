@@ -1,0 +1,17 @@
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.deps.json
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.runtimeconfig.json
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.runtimeconfig.dev.json
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.dll
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.Tests.pdb
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.dll
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/bin/Debug/netcoreapp2.2/Shapes.pdb
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csprojAssemblyReference.cache
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csproj.CoreCompileInputs.cache
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.AssemblyInfoInputs.cache
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.AssemblyInfo.cs
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.csproj.CopyComplete
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.dll
+/Users/KobysMac/Desktop/Shapes/Shapes.Solution/Shapes.Tests/obj/Debug/netcoreapp2.2/Shapes.Tests.pdb
